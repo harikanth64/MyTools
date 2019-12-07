@@ -1,5 +1,5 @@
 ﻿<#
-
+Version : 1.0
 Script name: 	Get-Logs.ps1
 
 Description: 	Use this script to capture required logs for diognosis for further troubleshooting
